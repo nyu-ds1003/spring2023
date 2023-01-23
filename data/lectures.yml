@@ -4,9 +4,9 @@
     2023-01-24:
       Label: Lecture (TL)
       Topics:
-          - {"Course logistics and overview": "."}
-          - {"Introduction to machine learning": "."}
-          - {"Introduction to statistical learning theory": "."}
+          - {"Course logistics and overview": "https://nyu-ds1003.github.io/mlcourse/2023/lectures/lec01/01a.overview.pdf"}
+          - {"Introduction to machine learning": "https://nyu-ds1003.github.io/mlcourse/2023/lectures/lec01/01b.intro-machine-learning.pdf"}
+          - {"Introduction to statistical learning theory": "https://nyu-ds1003.github.io/mlcourse/2023/lectures/lec01/01c.intro-stat-learning-theory.pdf"}
       Materials:
           - {"Conditional expectations": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/conditional-expectations.pdf"}
       References:
