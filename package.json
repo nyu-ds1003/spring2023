@@ -13,5 +13,19 @@
     "moment": "^2.9.0",
     "slugg": "^1.0.0",
     "stylus": "0.54.5"
-  }
+  },
+  "description": "## Editing, rebuilding, and deploying this page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyu-ds1003/spring2023.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyu-ds1003/spring2023/issues"
+  },
+  "homepage": "https://github.com/nyu-ds1003/spring2023#readme"
 }
