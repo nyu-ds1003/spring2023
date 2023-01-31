@@ -36,15 +36,7 @@
         - Loss functions
         - {"Slides": "https://nyu-ds1003.github.io/mlcourse/2023/lectures/lec02/02.pdf"}
       Materials:
-        #- {"Discussion notes": "https://nyu-ds1003.github.io/mlcourse/lectures/lec02/discussion-notes.pdf"}
-        #- {"Board": "https://nyu-ds1003.github.io/mlcourse/lectures/lec02/board.pdf"}
         - {"Bottou's SGD Tricks": "http://leon.bottou.org/papers/bottou-tricks-2012"}
-          #Notes:
-          # - {PreLecture Concept Check Questions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-PreLec-Check.pdf"}
-          # - {PreLecture Concept Check Solutions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-PreLec-Check_sol.pdf"}
-          # - {Completing the Square: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/completing-the-square.pdf"}
-          # - {'Excess Risk, Stochastic Gradient Descent and L1/L2 Questions': "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-Lec-Check.pdf"}
-          # - {'Excess Risk, Stochastic Gradient Descent and L1/L2 Solutions': "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-Lec-Check_sol.pdf"}
       References:
     # 2023-02-01:
     #   Label: Lab
