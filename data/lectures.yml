@@ -25,39 +25,38 @@
       References:
        - {Barnes "Matrix Differentiation" notes: "http://www.atmos.washington.edu/~dennis/MatrixCalculus.pdf"}
        - {Matrix Cookbook: "https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf"}
-# -
-#   Title: Week 2
-#   Events:
-#     2023-01-31:
-#       Label: Lecture (RSZ)
-#       Topics:
-#         - Gradient descent
-#         - Stochastic gradient descent
-#         - Loss functions
-#         - {"Slides": "https://nyu-ds1003.github.io/mlcourse/2022/lectures/lec02/02.pdf"}
-#       Materials:
-#         #- {"Discussion notes": "https://nyu-ds1003.github.io/mlcourse/lectures/lec02/discussion-notes.pdf"}
-#         #- {"Board": "https://nyu-ds1003.github.io/mlcourse/lectures/lec02/board.pdf"}
-#         - {"Bottou's SGD Tricks": "http://leon.bottou.org/papers/bottou-tricks-2012"}
-#           #Notes:
-#           # - {PreLecture Concept Check Questions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-PreLec-Check.pdf"}
-#           # - {PreLecture Concept Check Solutions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-PreLec-Check_sol.pdf"}
-#           # - {Completing the Square: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/completing-the-square.pdf"}
-#           # - {'Excess Risk, Stochastic Gradient Descent and L1/L2 Questions': "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-Lec-Check.pdf"}
-#           # - {'Excess Risk, Stochastic Gradient Descent and L1/L2 Solutions': "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-Lec-Check_sol.pdf"}
-#       References:
-#     2023-02-01:
-#       Label: Lab
-#       Topics:
-#       #- (Review of linear regression)
-#       #- SGD for logistic regression
-#         - {"GD and SGD": "https://nyu-ds1003.github.io/mlcourse/2022/labs/Lab2.pdf"}
-#           #- {"(Notebook) GD and Adaptive Learning Rate": "https://github.com/nyu-ds1003/mlcourse/blob/master/labs/02-20210210-gd%26sgd/02-20210210-gd-armijo-part01.ipynb" }
-#           #- {"(Notebook) Full-batch Mini-batch and Stochastic Gradient Descent": "https://github.com/nyu-ds1003/mlcourse/blob/master/labs/02-20210210-gd%26sgd/02-20210210-gd%26sgd-part02.ipynb"}
-#        # - {Grouping and Elastic Net: "https://davidrosenberg.github.io/mlcourse/Archive/2017/Lectures/3a.elastic-net.pdf"}
-#       Materials:
-#       References:
-#         # - "HTF 3.4"
+-
+  Title: Week 2
+  Events:
+    2023-01-31:
+      Label: Lecture (RSZ)
+      Topics:
+        - Gradient descent
+        - Stochastic gradient descent
+        - Loss functions
+        - {"Slides": "https://nyu-ds1003.github.io/mlcourse/2023/lectures/lec02/02.pdf"}
+      Materials:
+        #- {"Discussion notes": "https://nyu-ds1003.github.io/mlcourse/lectures/lec02/discussion-notes.pdf"}
+        #- {"Board": "https://nyu-ds1003.github.io/mlcourse/lectures/lec02/board.pdf"}
+        - {"Bottou's SGD Tricks": "http://leon.bottou.org/papers/bottou-tricks-2012"}
+          #Notes:
+          # - {PreLecture Concept Check Questions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-PreLec-Check.pdf"}
+          # - {PreLecture Concept Check Solutions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-PreLec-Check_sol.pdf"}
+          # - {Completing the Square: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/completing-the-square.pdf"}
+          # - {'Excess Risk, Stochastic Gradient Descent and L1/L2 Questions': "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-Lec-Check.pdf"}
+          # - {'Excess Risk, Stochastic Gradient Descent and L1/L2 Solutions': "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-Lec-Check_sol.pdf"}
+      References:
+    # 2023-02-01:
+    #   Label: Lab
+    #   Topics:
+    #   #- (Review of linear regression)
+    #   #- SGD for logistic regression
+    #     - {"GD and SGD": "https://nyu-ds1003.github.io/mlcourse/2022/labs/Lab2.pdf"}
+    #       #- {"(Notebook) GD and Adaptive Learning Rate": "https://github.com/nyu-ds1003/mlcourse/blob/master/labs/02-20210210-gd%26sgd/02-20210210-gd-armijo-part01.ipynb" }
+    #       #- {"(Notebook) Full-batch Mini-batch and Stochastic Gradient Descent": "https://github.com/nyu-ds1003/mlcourse/blob/master/labs/02-20210210-gd%26sgd/02-20210210-gd%26sgd-part02.ipynb"}
+    #    # - {Grouping and Elastic Net: "https://davidrosenberg.github.io/mlcourse/Archive/2017/Lectures/3a.elastic-net.pdf"}
+    #   Materials:
+    #   References:
 # -
 #   Title: Week 3
 #   Events:
