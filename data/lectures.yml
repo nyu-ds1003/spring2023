@@ -28,8 +28,8 @@
 # -
 #   Title: Week 2
 #   Events:
-#     2021-02-01:
-#       Label: Lecture (TL)
+#     2023-01-31:
+#       Label: Lecture (RSZ)
 #       Topics:
 #         - Gradient descent
 #         - Stochastic gradient descent
@@ -46,7 +46,7 @@
 #           # - {'Excess Risk, Stochastic Gradient Descent and L1/L2 Questions': "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-Lec-Check.pdf"}
 #           # - {'Excess Risk, Stochastic Gradient Descent and L1/L2 Solutions': "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-Lec-Check_sol.pdf"}
 #       References:
-#     2021-02-02:
+#     2023-02-01:
 #       Label: Lab
 #       Topics:
 #       #- (Review of linear regression)
