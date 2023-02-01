@@ -38,17 +38,14 @@
       Materials:
         - {"Bottou's SGD Tricks": "http://leon.bottou.org/papers/bottou-tricks-2012"}
       References:
-    # 2023-02-01:
-    #   Label: Lab
-    #   Topics:
-    #   #- (Review of linear regression)
-    #   #- SGD for logistic regression
-    #     - {"GD and SGD": "https://nyu-ds1003.github.io/mlcourse/2022/labs/Lab2.pdf"}
-    #       #- {"(Notebook) GD and Adaptive Learning Rate": "https://github.com/nyu-ds1003/mlcourse/blob/master/labs/02-20210210-gd%26sgd/02-20210210-gd-armijo-part01.ipynb" }
-    #       #- {"(Notebook) Full-batch Mini-batch and Stochastic Gradient Descent": "https://github.com/nyu-ds1003/mlcourse/blob/master/labs/02-20210210-gd%26sgd/02-20210210-gd%26sgd-part02.ipynb"}
-    #    # - {Grouping and Elastic Net: "https://davidrosenberg.github.io/mlcourse/Archive/2017/Lectures/3a.elastic-net.pdf"}
-    #   Materials:
-    #   References:
+    2023-02-01:
+      Label: Lab
+      Topics:
+        - {"GD and SGD": "https://nyu-ds1003.github.io/mlcourse/2023/labs/Lab2.pdf"}
+      Materials:
+        - {"(Notebook) Adaptive Learning Rate": "https://nyu-ds1003.github.io/mlcourse/2023/labs/lab02-1.ipynb" }
+        - {"(Notebook) Batch, Mini-batch and Stochastic GD": "https://nyu-ds1003.github.io/mlcourse/2023/labs/lab02-2.ipynb"}
+      References:
 # -
 #   Title: Week 3
 #   Events:
