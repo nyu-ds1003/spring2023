@@ -46,41 +46,41 @@
         - {"(Notebook) Adaptive Learning Rate": "https://nyu-ds1003.github.io/mlcourse/2023/labs/lab02-1.ipynb" }
         - {"(Notebook) Batch, Mini-batch and Stochastic GD": "https://nyu-ds1003.github.io/mlcourse/2023/labs/lab02-2.ipynb"}
       References:
-# -
-#   Title: Week 3
-#   Events:
-#     2021-02-08:
-#       Label: Lecture (TL)
-#       Topics:
-#           - Feature selection
-#           - Regularization
-#           - Lasso Optimization
-#           - {"Slides": "https://nyu-ds1003.github.io/mlcourse/2022/lectures/lec03/03.pdf"}
-#       Materials:
-#         #- {"Discussion": "https://nyu-ds1003.github.io/mlcourse/lectures/lec03/discussion-annotated.pdf"}
-#           #- {Stochastic Gradient Descent: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/02a.SGD.pdf"}
-#           #- {Gradient Descent: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/02b.gradient-descent.pdf"}
-#           #- {L1 and L2 regularization: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/02c.L1L2-regularization.pdf"}
-#           #Notes:
-#           # - {PreLecture Concept Check Questions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-PreLec-Check.pdf"}
-#           # - {PreLecture Concept Check Solutions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-PreLec-Check_sol.pdf"}
-#           # - {Completing the Square: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/completing-the-square.pdf"}
-#           # - {'Excess Risk, Stochastic Gradient Descent and L1/L2 Questions': "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-Lec-Check.pdf"}
-#           # - {'Excess Risk, Stochastic Gradient Descent and L1/L2 Solutions': "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-Lec-Check_sol.pdf"}
-#       References:
-#         - "HTF Ch. 3.3-3.4"
-#     2021-02-09:
-#       Label: Lab
-#       Topics:
-#        - {Regularization and feature correlation: "https://nyu-ds1003.github.io/mlcourse/2022/labs/Lab3.pdf"}
-#       #  - {(demo) Lasso and elastic net: ""}
-#        - {Pre-lecture warmup for SVM and Lagrangians: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/svm-lecture-prep.pdf"}
-#        # - {Grouping and Elastic Net: "https://davidrosenberg.github.io/mlcourse/Archive/2017/Lectures/3a.elastic-net.pdf"}
-#       Materials:
-#        - {Rosenberg's notes on convex optimization: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/convex-optimization.pdf"}
-#        - {Convex optimization and Lagrangian duality tutorial slides: "https://nyu-ds1003.github.io/mlcourse/2022/lectures/lec04/04.0.convex-optimization.pdf"}
-#       References:
-#         # - "HTF 3.4"
+-
+  Title: Week 3
+  Events:
+    2021-02-07:
+      Label: Lecture (MR)
+      Topics:
+          - Feature selection
+          - Regularization
+          - Lasso Optimization
+          - {"Slides": "https://nyu-ds1003.github.io/mlcourse/2023/lectures/lec03/03-handout.pdf"}
+      Materials:
+        #- {"Discussion": "https://nyu-ds1003.github.io/mlcourse/lectures/lec03/discussion-annotated.pdf"}
+          #- {Stochastic Gradient Descent: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/02a.SGD.pdf"}
+          #- {Gradient Descent: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/02b.gradient-descent.pdf"}
+          #- {L1 and L2 regularization: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/02c.L1L2-regularization.pdf"}
+          #Notes:
+          # - {PreLecture Concept Check Questions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-PreLec-Check.pdf"}
+          # - {PreLecture Concept Check Solutions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-PreLec-Check_sol.pdf"}
+          # - {Completing the Square: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/completing-the-square.pdf"}
+          # - {'Excess Risk, Stochastic Gradient Descent and L1/L2 Questions': "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-Lec-Check.pdf"}
+          # - {'Excess Risk, Stochastic Gradient Descent and L1/L2 Solutions': "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-Lec-Check_sol.pdf"}
+      References:
+        - "HTF Ch. 3.3-3.4"
+    # 2021-02-09:
+    #   Label: Lab
+    #   Topics:
+    #    - {Regularization and feature correlation: "https://nyu-ds1003.github.io/mlcourse/2022/labs/Lab3.pdf"}
+    #   #  - {(demo) Lasso and elastic net: ""}
+    #    - {Pre-lecture warmup for SVM and Lagrangians: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/svm-lecture-prep.pdf"}
+    #    # - {Grouping and Elastic Net: "https://davidrosenberg.github.io/mlcourse/Archive/2017/Lectures/3a.elastic-net.pdf"}
+    #   Materials:
+    #    - {Rosenberg's notes on convex optimization: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/convex-optimization.pdf"}
+    #    - {Convex optimization and Lagrangian duality tutorial slides: "https://nyu-ds1003.github.io/mlcourse/2022/lectures/lec04/04.0.convex-optimization.pdf"}
+    #   References:
+    #     # - "HTF 3.4"
 # -
 #   Title: Week 4
 #   Events:
