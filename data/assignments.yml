@@ -21,23 +21,14 @@ Submit link: "https://gradescope.com"
   Label: Homework 2
   Description: Gradient Descent & Regularization
   Due: 2023-02-15
-#   PDF: {hw1.pdf: "https://github.com/nyu-ds1003/mlcourse/blob/master/assignments/hw1/hw1.pdf"}
-#   ZIP: {hw1.zip: "https://github.com/nyu-ds1003/mlcourse/blob/master/assignments/hw1/hw1.zip"}
   PDF: {hw2.pdf: "https://nyu-ds1003.github.io/mlcourse/2023/assignments/hw2.pdf"}
   ZIP: {hw2.zip: "https://nyu-ds1003.github.io/mlcourse/2023/assignments/hw2.zip"}
-#     #  Label: Homework 2
-#     #  Description: Gradient Descent and Regularization
-#     #  Due: 2021-02-22
-#     ##   PDF: {hw1.pdf: "https://github.com/nyu-ds1003/mlcourse/blob/master/assignments/hw1/hw1.pdf"}
-#     ##   ZIP: {hw1.zip: "https://github.com/nyu-ds1003/mlcourse/blob/master/assignments/hw1/hw1.zip"}
-#     #  PDF: {hw2.pdf: "https://nyu-ds1003.github.io/mlcourse/assignments/hw2/hw2.pdf"}
-#     #  ZIP: {hw2.zip: "https://nyu-ds1003.github.io/mlcourse/assignments/hw2/hw2.zip"}
-# -
-#   Label: Homework 3
-#   Description: SVMs and Kernel Methods
-#   Due: 2021-03-02
-#   PDF: {hw3.pdf: "https://nyu-ds1003.github.io/mlcourse/2022/assignments/hw3.pdf"}
-#   ZIP: {hw3.zip: "https://nyu-ds1003.github.io/mlcourse/2022/assignments/hw3.zip"}
+-
+  Label: Homework 3
+  Description: SVMs and Kernel Methods
+  Due: 2023-03-01
+  PDF: {hw3.pdf: "https://nyu-ds1003.github.io/mlcourse/2023/assignments/hw3.pdf"}
+  ZIP: {hw3.zip: "https://nyu-ds1003.github.io/mlcourse/2023/assignments/hw3.zip"}
 # -
 #   Label: Homework 4
 #   Description: Probabilistic models 
