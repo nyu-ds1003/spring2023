@@ -76,9 +76,9 @@
     #   #  - {(demo) Lasso and elastic net: ""}
     #    - {Pre-lecture warmup for SVM and Lagrangians: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/svm-lecture-prep.pdf"}
     #    # - {Grouping and Elastic Net: "https://davidrosenberg.github.io/mlcourse/Archive/2017/Lectures/3a.elastic-net.pdf"}
-    #   Materials:
-    #    - {Rosenberg's notes on convex optimization: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/convex-optimization.pdf"}
-    #    - {Convex optimization and Lagrangian duality tutorial slides: "https://nyu-ds1003.github.io/mlcourse/2022/lectures/lec04/04.0.convex-optimization.pdf"}
+      Materials:
+       # - {Rosenberg's notes on convex optimization: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/convex-optimization.pdf"}
+       # - {Convex optimization and Lagrangian duality tutorial slides: "https://nyu-ds1003.github.io/mlcourse/2022/lectures/lec04/04.0.convex-optimization.pdf"}
     #   References:
     #     # - "HTF 3.4"
 -
@@ -94,6 +94,10 @@
       Materials:
        - {Geometric Derivation of SVMs: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/3-SVM-Slides.pdf"}
        - {SVM Insights from Duality: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/SVM-main-points.pdf"}
+       - {Rosenberg's notes on convex optimization: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/convex-optimization.pdf"}
+       - {Weak duality theorem: "https://inst.eecs.berkeley.edu/~ee227a/fa10/login/l_dual_weak.html"}
+       - {Convergence proof of subgradient descent: "https://web.stanford.edu/class/ee392o/subgrad_method.pdf"} 
+       - {Convex optimization and Lagrangian duality tutorial slides: "https://nyu-ds1003.github.io/mlcourse/2022/lectures/lec04/04.0.convex-optimization.pdf"}
       References:
 #     2021-02-16:
 #       Label: Lab
