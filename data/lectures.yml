@@ -120,13 +120,13 @@
       References:
         - SSBD Ch. 16
         - {"A Survey of Kernels for Structured Data": "http://homepages.rpi.edu/~bennek/class/mmld/papers/p49-gartner.pdf"}
-#     2023-02-22:
-#       Label: Lab
-#       Topics:
-#         - {Kernels: "https://nyu-ds1003.github.io/mlcourse/2022/labs/lab5.pdf"}
-#           #- {(demo) SVM MNIST RBF: "https://nyu-ds1003.github.io/mlcourse/labs/05-20210303-Kernels/demo_mnist_RBF.ipynb"}
-#       Materials:
-#       References:
+    2023-02-22:
+      Label: Lab
+      Topics:
+        - {"Kernels": "https://nyu-ds1003.github.io/mlcourse/2022/labs/lab5.pdf"}
+      Materials:
+        - {"(Notebook) SVM with RBF Kernel on MNIST": "https://nyu-ds1003.github.io/mlcourse/2023/labs/lab05.ipynb"}
+      References:
 # -
 #   Title: Week 6
 #   Events:
