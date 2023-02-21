@@ -123,7 +123,7 @@
     2023-02-22:
       Label: Lab
       Topics:
-        - {"Kernels": "https://nyu-ds1003.github.io/mlcourse/2022/labs/lab5.pdf"}
+        - {"Kernels": "https://nyu-ds1003.github.io/mlcourse/2023/labs/lab5.pdf"}
       Materials:
         - {"(Notebook) SVM with RBF Kernel on MNIST": "https://nyu-ds1003.github.io/mlcourse/2023/labs/lab05.ipynb"}
       References:
