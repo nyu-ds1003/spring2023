@@ -84,7 +84,7 @@
 -
   Title: Week 4
   Events:
-    2021-02-14:
+    2023-02-14:
       Label: Lecture (MR)
       Topics:
           - Support Vector Machines
@@ -99,7 +99,7 @@
        - {Convergence proof of subgradient descent: "https://web.stanford.edu/class/ee392o/subgrad_method.pdf"} 
        - {Convex optimization and Lagrangian duality tutorial slides: "https://nyu-ds1003.github.io/mlcourse/2022/lectures/lec04/04.0.convex-optimization.pdf"}
       # References:
-    2021-02-15:
+    2023-02-15:
       Label: Lab
       Topics:
        - {Recap of SVMs and Complementary Slackness: "https://nyu-ds1003.github.io/mlcourse/2023/labs/Lab4.pdf"}
@@ -130,22 +130,24 @@
 -
   Title: Week 6
   Events:
-    2021-03-01:
+    2023-02-28:
       Label: Lecture (RSZ)
-#       Topics:
-#           - {"Maximum Likelihood Estimation": ""}
-#           - {"Generative and discriminative models":""}
-#           - {"Slides": "https://nyu-ds1003.github.io/mlcourse/2022/lectures/lec06/06.pdf"}
-#       Materials:
-#           #- {CitySense: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05b.citysense.pdf"}
-#           #- {Maximum Likelihood: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05c.MLE.pdf"}
-#           #- {Conditional Probability Models: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/06a.conditional-probability-models.pdf"}
-#           #- {"Exponential Distribution Example (First part)": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/conditional-exponential-distributions.pdf"}
-#           #- {Conditional Model Questions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/10-Lab-Check.pdf"}
-#           #- {Conditional Model Solutions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/10-Lab-Check_sol.pdf"}
-    2021-03-02:
+      Topics:
+        - Maximum Likelihood Estimation
+        - Generative and discriminative models
+        - {"Slides": "https://nyu-ds1003.github.io/mlcourse/2023/lectures/lec06/06.pdf"}
+      Materials:
+        - {CitySense: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05b.citysense.pdf"}
+        - {Maximum Likelihood: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05c.MLE.pdf"}
+        - {Conditional Probability Models: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/06a.conditional-probability-models.pdf"}
+        - {Exponential Distribution Example (First part): "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/conditional-exponential-distributions.pdf"}
+        - {Conditional Model Questions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/10-Lab-Check.pdf"}
+        - {Conditional Model Solutions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/10-Lab-Check_sol.pdf"}
+    2023-03-01:
       Label: Lab
       Topics:
+        - {"MLE Review": "https://nyu-ds1003.github.io/mlcourse/2023/labs/Lab6.pdf"}
+#        - {"(Solution) Review for Midterm": "https://nyu-ds1003.github.io/mlcourse/labs/07-20210317-midterm-review/07-20210317-midterm-review-solution.pdf"}
 #        - {Review for Midterm: "https://nyu-ds1003.github.io/mlcourse/2022/labs/Lab6.pdf"}
 #       #  - {"MLE review and exercise": ""}
       Materials:
