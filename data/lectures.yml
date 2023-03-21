@@ -98,7 +98,6 @@
        - {Weak duality theorem: "https://inst.eecs.berkeley.edu/~ee227a/fa10/login/l_dual_weak.html"}
        - {Convergence proof of subgradient descent: "https://web.stanford.edu/class/ee392o/subgrad_method.pdf"} 
        - {Convex optimization and Lagrangian duality tutorial slides: "https://nyu-ds1003.github.io/mlcourse/2022/lectures/lec04/04.0.convex-optimization.pdf"}
-      # References:
     2023-02-15:
       Label: Lab
       Topics:
@@ -147,9 +146,6 @@
       Label: Lab
       Topics:
         - {"MLE Review": "https://nyu-ds1003.github.io/mlcourse/2023/labs/Lab6.pdf"}
-#        - {"(Solution) Review for Midterm": "https://nyu-ds1003.github.io/mlcourse/labs/07-20210317-midterm-review/07-20210317-midterm-review-solution.pdf"}
-#        - {Review for Midterm: "https://nyu-ds1003.github.io/mlcourse/2022/labs/Lab6.pdf"}
-#       #  - {"MLE review and exercise": ""}
       Materials:
         - {"Spring 2021 Midterm": "https://nyu-ds1003.github.io/mlcourse/2022/exams/sp21/midterm_release.pdf"}
         - {"Spring 2021 Midterm Solution": "https://nyu-ds1003.github.io/mlcourse/2022/exams/sp21/midterm_solutions.pdf"}
@@ -191,13 +187,10 @@
         - Bayesian Methods
         - Bayesian Regression
         - {"Slides": "https://nyu-ds1003.github.io/mlcourse/2023/lectures/lec08/lec08.pdf"}
-        # - {"Bayesian Methods": ""}
-        # - {"Bayesian Regression": ""}
-#     2021-03-23:
-#       Label: Lab
-#       Topics:
-#         - {"Recap and Questions: Bayesian Methods": "https://nyu-ds1003.github.io/mlcourse/2022/labs/Lab8.pdf"}
-#         #- {"(demo) Bayesian linear regression": "https://nyu-ds1003.github.io/mlcourse/labs/08-20210324-bayesian/08-20210324-bayes_reg.ipynb"}
+    2023-03-22:
+      Label: Lab
+      Topics:
+        - {"Bayesian Methods": "https://nyu-ds1003.github.io/mlcourse/2023/labs/Lab8.pdf"}
 # -
 #   Title: Week 9
 #   Events:
