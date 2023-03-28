@@ -191,29 +191,30 @@
       Label: Lab
       Topics:
         - {"Bayesian Methods": "https://nyu-ds1003.github.io/mlcourse/2023/labs/Lab8.pdf"}
-# -
-#   Title: Week 9
-#   Events:
-#     2021-03-29:
-#       Label: Lecture (HH)
-#       Topics:
-#         - {"Reduction to Binary Classification": ""}
-#         - {"Linear Multiclass Predictors": ""}
-#         - {"Structured Prediction": ""}
-#         - {"Slides": "https://nyu-ds1003.github.io/mlcourse/2022/lectures/lec09/09.pdf"}
-#       Materials:
-#           - {"Multiclass Questions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/7-Lec-Check.pdf"}
-#           - {"Multiclass Solutions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/7-Lec-Check_sol.pdf"}
-# #        - {"Proportionality Review": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/proportionality.pdf"}
-# #        - {"Multivariate Gaussians (draft)": "https://davidrosenberg.github.io/mlcourse/in-prep/multivariate-gaussian.pdf"}
-# #        - {"Bayesian Linear Regression (draft)": "https://davidrosenberg.github.io/mlcourse/in-prep/bayesian-regression.pdf"}
+-
+  Title: Week 9
+  Events:
+    2021-03-28:
+      Label: Lecture (MR)
+      Topics:
+        - Reduction to Binary Classification
+        - Linear Multiclass Predictors
+        - Structured Prediction
+        - {"Slides": "https://nyu-ds1003.github.io/mlcourse/2023/lectures/lec09/09.pdf"}
+      Materials:
+          - {"Multiclass Questions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/7-Lec-Check.pdf"}
+          - {"Multiclass Solutions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/7-Lec-Check_sol.pdf"}
+          - {"Conditional Random Fields": "https://people.cs.umass.edu/~mccallum/papers/crf-tutorial.pdf"}
+#        - {"Proportionality Review": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/proportionality.pdf"}
+#        - {"Multivariate Gaussians (draft)": "https://davidrosenberg.github.io/mlcourse/in-prep/multivariate-gaussian.pdf"}
+#        - {"Bayesian Linear Regression (draft)": "https://davidrosenberg.github.io/mlcourse/in-prep/bayesian-regression.pdf"}
 
-#       References:
-#        - "SSBD Chapter 17"
-#        - {In Defense of One-Vs-All Classification: "http://www.jmlr.org/papers/v5/rifkin04a.html"}
-#          #- {Reducing Multiclass to Binary: "http://www.jmlr.org/papers/volume1/allwein00a/allwein00a.pdf"}
-#        # - "JWHT 8.1 (Trees)"
-#        # - "HTF 9.2 (Trees)"
+      References:
+       - "SSBD Chapter 17"
+       - {In Defense of One-Vs-All Classification: "http://www.jmlr.org/papers/v5/rifkin04a.html"}
+       - {Reducing Multiclass to Binary: "http://www.jmlr.org/papers/volume1/allwein00a/allwein00a.pdf"}
+       # - "JWHT 8.1 (Trees)"
+       # - "HTF 9.2 (Trees)"
 
 #     2021-03-30:
 #       Label: Lab
