@@ -208,7 +208,6 @@
 #        - {"Proportionality Review": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/proportionality.pdf"}
 #        - {"Multivariate Gaussians (draft)": "https://davidrosenberg.github.io/mlcourse/in-prep/multivariate-gaussian.pdf"}
 #        - {"Bayesian Linear Regression (draft)": "https://davidrosenberg.github.io/mlcourse/in-prep/bayesian-regression.pdf"}
-
       References:
        - "SSBD Chapter 17"
        - {In Defense of One-Vs-All Classification: "http://www.jmlr.org/papers/v5/rifkin04a.html"}
