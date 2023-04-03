@@ -229,21 +229,19 @@
 #        # - "SSBD Chapter 17"
 # #        - {In Defense of One-Vs-All Classification: "http://www.jmlr.org/papers/v5/rifkin04a.html"}
 # #        - {Reducing Multiclass to Binary: "http://www.jmlr.org/papers/volume1/allwein00a/allwein00a.pdf"}
-# -
-#   Title: Week 10
-#   Events:
-#     2021-04-05:
-#       Label: Lecture (TL)
-#       Topics:
-#           - {"Decision Trees": ""}
-#           - {"Random Forests": ""}
-#           - {"Adaboost": ""}
-#           - {"Slides": "https://nyu-ds1003.github.io/mlcourse/2022/lectures/lec10/10.pdf"}
-#       Material:
-#         - {'Intro to the Bootstrap': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/11a.bootstrap.pdf"}
-#       References:
-#        - "JWHT 8.1 (Trees)"
-#        - "HTF 9.2 (Trees)"
+-
+  Title: Week 10
+  Events:
+    2021-04-04:
+      Label: Lecture (MR)
+      Topics:
+          # - {"Slides": "https://nyu-ds1003.github.io/mlcourse/2022/lectures/lec10/10.pdf"}
+      Material:
+        - {"Intro to the Bootstrap": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/11a.bootstrap.pdf"}
+        - {"Viola-Jones Face Detector", "https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf"}
+      References:
+       - "JWHT 8.1 (Trees)"
+       - "HTF 9.2 (Trees)"
 #     2021-04-06:
 #       Label: Lab
 #       Topics:
