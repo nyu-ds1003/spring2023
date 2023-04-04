@@ -215,20 +215,20 @@
        # - "JWHT 8.1 (Trees)"
        # - "HTF 9.2 (Trees)"
 
-#     2021-03-30:
-#       Label: Lab
-#       Topics:
-#         - {"Recap and Questions: Multiclass & Structured Prediction": "https://nyu-ds1003.github.io/mlcourse/2022/labs/Lab9.pdf"}
-#           # - {"Recap: Multiclass & Structured Prediction": ""}
-#       Materials:
-#         #- {"Multiclass Review": ""}
-#             #- {"(Annotated) Recap: Multiclass & Structured Prediction": "https://nyu-ds1003.github.io/mlcourse/labs/annotated-jk/09-20210331-multiclass-structured-prediction.pdf"}
-# #        - {"Multiclass Questions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/7-Lec-Check.pdf"}
-# #        - {"Multiclass Solutions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/7-Lec-Check_sol.pdf"}
-#       References:
-#        # - "SSBD Chapter 17"
-# #        - {In Defense of One-Vs-All Classification: "http://www.jmlr.org/papers/v5/rifkin04a.html"}
-# #        - {Reducing Multiclass to Binary: "http://www.jmlr.org/papers/volume1/allwein00a/allwein00a.pdf"}
+    2023-03-30:
+      Label: Lab
+      Topics:
+        - {"Recap and Questions: Multiclass & Structured Prediction": "https://nyu-ds1003.github.io/mlcourse/2023/labs/lab9.pdf"}
+          # - {"Recap: Multiclass & Structured Prediction": ""}
+      Materials:
+        #- {"Multiclass Review": ""}
+            #- {"(Annotated) Recap: Multiclass & Structured Prediction": "https://nyu-ds1003.github.io/mlcourse/labs/annotated-jk/09-20210331-multiclass-structured-prediction.pdf"}
+#        - {"Multiclass Questions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/7-Lec-Check.pdf"}
+#        - {"Multiclass Solutions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/7-Lec-Check_sol.pdf"}
+      References:
+       # - "SSBD Chapter 17"
+#        - {In Defense of One-Vs-All Classification: "http://www.jmlr.org/papers/v5/rifkin04a.html"}
+#        - {Reducing Multiclass to Binary: "http://www.jmlr.org/papers/volume1/allwein00a/allwein00a.pdf"}
 -
   Title: Week 10
   Events:
