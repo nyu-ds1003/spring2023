@@ -252,34 +252,31 @@
       References:
        - "JWHT 5.2 (Bootstrap)"
        - "HTF 7.11 (Bootstrap)"
-# -
-#   Title: Week 11
-#   Events:
-#     2021-04-12:
-#       Label: Lecture (HH)
-#       Topics:
-#         - {"Forward stagewise additive modeling": ""}
-#         - {"Gradient boosting": ""}
-#         - {"Slides": "https://nyu-ds1003.github.io/mlcourse/2022/lectures/lec11/11.pdf"}
-#       Materials:
-#       References:
-#        - {"A Conversation with Jerry Friedman": "https://arxiv.org/pdf/1507.08502.pdf"}
-#        - {"Friedman's GBM Paper": http://statweb.stanford.edu/~jhf/ftp/trebst.pdf}
-#        - {"Ridgeway's GBM Guide": http://www.saedsayad.com/docs/gbm2.pdf}
-#        - {"XGBoost Paper": http://arxiv.org/abs/1603.02754}
-#        - {"Bühlmann and Hothorn's Boosting Paper": https://projecteuclid.org/euclid.ss/1207580163}
-#     2021-04-13:
-#       Label: Lab
-#       Topics:
-#         - {"Gradient Boosting": "https://nyu-ds1003.github.io/mlcourse/2022/labs/lab11.pdf"}
-#         #  - {"Gradient Boosting": ""}
-#        # - Review on gradient boosting
-#        # - (demo) L2 boosting
-#        # - XGBoost
-#       Materials:
-#           - {"Exponential Distribution Gradient Boosting": "https://nyu-ds1003.github.io/mlcourse/labs/11-20210414-GBM/conditional-exponential-distributions.pdf"}
-#           - {"Poisson Gradient Boosting": "https://nyu-ds1003.github.io/mlcourse/labs/11-20210414-GBM/poisson-gradient-boosting.pdf"}
-#       References:
+-
+  Title: Week 11
+  Events:
+    2023-04-11:
+      Label: Lecture (RSZ)
+      Topics:
+        - Forward stagewise additive modeling
+        - Gradient boosting
+        - {"Slides": "https://nyu-ds1003.github.io/mlcourse/2023/lectures/lec11/11.pdf"}
+      Materials:
+      References:
+       - {"A Conversation with Jerry Friedman": "https://arxiv.org/pdf/1507.08502.pdf"}
+       - {"Friedman's GBM Paper": http://statweb.stanford.edu/~jhf/ftp/trebst.pdf}
+       - {"Ridgeway's GBM Guide": http://www.saedsayad.com/docs/gbm2.pdf}
+       - {"XGBoost Paper": http://arxiv.org/abs/1603.02754}
+       - {"Bühlmann and Hothorn's Boosting Paper": https://projecteuclid.org/euclid.ss/1207580163}
+    2023-04-12:
+      Label: Lab
+      Topics:
+        - {"Gradient Boosting": "https://nyu-ds1003.github.io/mlcourse/2023/labs/lab11.pdf"}
+      Materials:
+        - {"Gradient Boosting Demo (gbm.py)": "https://nyu-ds1003.github.io/mlcourse/2023/labs/gbm.py"}
+      References:
+        - {"Exponential Distribution Gradient Boosting": "https://nyu-ds1003.github.io/mlcourse/labs/11-20210414-GBM/conditional-exponential-distributions.pdf"}
+        - {"Poisson Gradient Boosting": "https://nyu-ds1003.github.io/mlcourse/labs/11-20210414-GBM/poisson-gradient-boosting.pdf"}
 
 # -
 #   Title: Week 12
